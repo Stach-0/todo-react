@@ -1,0 +1,17 @@
+.app-container {
+  text-align: center;
+  margin: 2em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+input {
+  margin-right: 0.5em;
+}
