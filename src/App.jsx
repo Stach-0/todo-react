@@ -21,7 +21,7 @@ const App = () => {
 
   return (
     <div className="app-container"> {/* Dodaj klasę dla centrowania */}
-      <h1>Lista Zadań</h1>
+      <h1>Prosta Lista Zadań</h1>
       <AddTask addTask={addTask} />
       <TaskList tasks={tasks} removeTask={removeTask} />
     </div>
