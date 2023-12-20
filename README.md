@@ -14,6 +14,10 @@ Projekt "PZAW - ToDo App w React" to prosta aplikacja do zarządzania listą zad
 - Informacje o dacie i godzinie utworzenia zadania.
 - Wyświetlanie trzech zadań na starcie.
 
+## Podgląd strony
+
+![](podglad.png)
+
 ## Instrukcje
 
 ### Uruchomienie projektu
