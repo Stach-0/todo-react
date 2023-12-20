@@ -67,7 +67,6 @@ git commit -m "Opis zmian w projekcie"
 ![](https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif)
 ![](https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif)
 ![](https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif)
-![](https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif)
 
 
 
