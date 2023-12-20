@@ -74,7 +74,7 @@ git commit -m "Opis zmian w projekcie"
 
 
 
-Autor: Stanisław Piskorski
+Autor: Stanisław Kazimierz Piskorski
 Kontakt: stan.piskorski@gmail.com
 
 ---
