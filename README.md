@@ -57,7 +57,11 @@ git commit -m "Opis zmian w projekcie"
 
 
 
-![Gif](https://jtohs-joke-towers.fandom.com/wiki/Spinning_Skull?file=Spinning_skull_%F0%9F%92%80.gif)
+![](https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif)
+![](https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif)
+![](https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif)
+![](https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif)
+
 
 
 
