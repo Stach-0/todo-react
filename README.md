@@ -55,9 +55,9 @@ git commit -m "Opis zmian w projekcie"
 
 ## Demo
 
-Zobacz poniżej krótki demo działania aplikacji:
 
-![Demo](demo.gif)
+
+![Gif](https://jtohs-joke-towers.fandom.com/wiki/Spinning_Skull?file=Spinning_skull_%F0%9F%92%80.gif)
 
 
 
